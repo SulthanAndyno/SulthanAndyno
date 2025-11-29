@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/shukashuu.gif" alt="shukashuu gif" width="300">
+  <img src="assets/shukashuu.gif" alt="shukashuu gif" width="1000 height=300">
 </div>
 
 ## 🌐 Socials:
