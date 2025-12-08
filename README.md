@@ -21,6 +21,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
 </div>
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
