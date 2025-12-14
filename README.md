@@ -23,13 +23,36 @@
 </div>
 
 # 📊 GitHub Stats:
-## 📊 GitHub Stats:
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SulthanAndyno&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true" width="45%"/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=SulthanAndyno&theme=blueberry&hide_border=false" width="45%"/>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=SulthanAndyno
+  &theme=blueberry
+  &hide_border=false
+  &include_all_commits=true
+  &count_private=true
+  &border_radius=10
+  &line_height=28"
+  width="420"
+/>
+
+<img
+  src="https://nirzak-streak-stats.vercel.app/?user=SulthanAndyno
+  &theme=blueberry
+  &hide_border=false
+  &border_radius=10"
+  width="420"
+/>
+
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SulthanAndyno&theme=blueberry&hide_border=false&layout=compact" width="40%"/>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SulthanAndyno
+  &theme=blueberry
+  &hide_border=false
+  &layout=compact
+  &border_radius=10"
+  width="380"
+/>
 
 </div>
