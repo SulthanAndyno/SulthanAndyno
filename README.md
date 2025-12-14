@@ -29,10 +29,10 @@
 
 <br/><br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=SulthanAndyno&theme=blueberry&hide_border=false" width="600"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=SulthanAndyno&theme=blueberry&hide_border=false" width="500"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SulthanAndyno&theme=blueberry&hide_border=false&layout=compact" width="600"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SulthanAndyno&theme=blueberry&hide_border=false&layout=compact" width="500"/>
 
 </div>
