@@ -22,9 +22,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
 </div>
 
-# 📊 GitHub Stats:
-<div align="center">
-
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=SulthanAndyno&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true" width="600"/> -->
 
 <br/><br/>
