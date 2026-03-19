@@ -30,7 +30,7 @@
 </div>
 
 <br/><br/>
-
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SulthanAndyno&theme=blueberry&hide_border=false&layout=compact" width="500"/>
 
 </div>
