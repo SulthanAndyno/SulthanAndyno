@@ -24,10 +24,10 @@
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=SulthanAndyno&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true" width="600"/> -->
 
-<br/><br/>
-<div align="center">
+<!-- <br/><br/> -->
+<!-- <div align="center"> -->
   <img src="https://nirzak-streak-stats.vercel.app/?user=SulthanAndyno&theme=blueberry&hide_border=false" width="500"/>
-</div>
+<!-- </div> -->
 
 <br/><br/>
 <div align="center">
